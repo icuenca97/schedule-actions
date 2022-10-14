@@ -118,3 +118,5 @@
 2022-10-14 06:55:10,969 - __main__ - INFO - Weather in Cordoba: 7.21
 2022-10-14 08:34:46,735 - __main__ - INFO - Token value: 1234
 2022-10-14 08:34:47,944 - __main__ - INFO - Weather in Cordoba: 5.28
+2022-10-14 10:30:00,905 - __main__ - INFO - Token value: 1234
+2022-10-14 10:30:01,328 - __main__ - INFO - Weather in Cordoba: 5.4
